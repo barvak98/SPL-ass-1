@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/splass1.dir/Main.cpp.o CMakeFiles/splass1.dir/Files.cpp.o  -o splass1 
